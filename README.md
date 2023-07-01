@@ -7,9 +7,6 @@ Web Technologies used: HTML, CSS, JS
 IDE: VS-Code
 
 
-### Industry :
-Lifestyle
-
 
 ### Project Title :
 Save Wildlife Save Nature Website 
