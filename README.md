@@ -6,13 +6,5 @@ Web Technologies used: HTML, CSS, JS
 
 IDE: VS-Code
 
-
-
 ### Project Title :
 Save Wildlife Save Nature Website 
-
-
-
-
-
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="assets/images/FRT.jpeg" width="700" height= "350"></p></a>  
